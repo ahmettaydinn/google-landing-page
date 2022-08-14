@@ -3,7 +3,7 @@
 <b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/google-landing-page//">Live Website</a>
 <hr>
 <h3>Overview</h3>
-👨‍💻 In this project I mastered division and professional photo and video mixture.We used HTML and CSS. You can see visual representation of the website above. The objective is to build out this landing page and get it looking as close to the professional design as possible..
+👨‍💻 In this project I mastered division and professional cloning skills.We used mainly HTML and CSS. You can see visual representation of the website above. The objective is to build out this landing page and get it looking as close to the professional design as possible..
 <hr>
 
 ## Project Skeleton 
