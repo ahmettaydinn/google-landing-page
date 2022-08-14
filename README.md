@@ -9,7 +9,7 @@
 ## Project Skeleton 
 
 ```
-002-google-landing-page (folder)
+google-landing-page (directory)
 |
 |----README.md                  
 |----images              
