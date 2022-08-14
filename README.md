@@ -24,7 +24,7 @@ Project aims to create google landing page.
 
 ## Expected Outcome
 
-![Project 002 Snapshot](Project_002_.png)
+![Project 002 Snapshot](snapshot.png)
 
 ## Objective
 
@@ -61,23 +61,7 @@ In this project I mastered division and professional photo and video mixture.We 
 <hr>
 <h3>Project Skeleton</h3>
   
-```
-|-- tea-cozy-website
-    |-- resources
-        |-- img-bedford-bizarre.jpg
-        |-- img-berryblitz.jpg
-        |-- img-donut.jpg
-        |-- img-locations-background.jpg
-        |-- img-mission-background.jpg
-        |-- img-myrtle-ave.jpg
-        |-- img-spiced-rum.jpg
-        |-- img-tea-cozy-logo.png
-            |-- style.css
 
-   |-- index.html
-   |-- tea-cozy.gif
-   |-- readme.md
-```    
 <hr>
 <h3>Used in this project</h3>
 
