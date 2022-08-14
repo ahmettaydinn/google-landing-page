@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    height: 100%;
+}
 
 header {
     display: flex;
@@ -44,10 +47,13 @@ header {
     align-items: center;
     flex-direction: column;
     justify-content: center;
-
     gap: 1rem;
 }
 
+.main-btn {
+    display: flex;
+    gap: 2rem;
+}
 #img-first {
     width: 3rem;
 }
@@ -59,16 +65,22 @@ header {
 }
 
 .icons {
-    border: 2px solid rgb(8, 8, 8);
+    border: 2px solid rgba(8, 8, 8, 0.205);
     padding:0.1rem 1.1rem;
     border-radius: 3rem;
     display: flex;
-    gap: 27rem;
     margin: 1rem;
+
+
 }
 
+.icons input {
+    outline: none;
+    border: #fff;
+    font-size: 13px;
+}
 .main-btn a {
-    background-color: rgba(169, 171, 175, 0.26);
+    background-color: rgba(195, 198, 204, 0.192);
     padding: 0.5rem 0.8rem;
     color: rgba(12, 11, 11, 0.788);
     text-decoration: none;
@@ -77,11 +89,13 @@ header {
 
 .english-outer p {
     cursor: auto;
+    text-decoration: none;
 }
 
 #english {
     cursor: pointer;
-    
+    text-decoration: none;
+    color: blue;
 }
 
 .last {
@@ -94,6 +108,8 @@ header {
 .last-first {
     width: 100%;
     background-color: rgba(116, 111, 111, 0.089);
+    background-repeat: no-repeat;
+    background-size: cover;
     border-bottom: rgba(100, 96, 96, 0.062);
     height: 3rem;
 
@@ -103,13 +119,18 @@ header {
     display: flex;
     justify-content: space-between;
     width: 100%;
-    background-color: rgba(80, 77, 77, 0.151);
+    background-color: rgba(131, 127, 127, 0.151);
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 3rem;
+    word-wrap: wrap;
+
 }
 
 .last-second-first a, .last-first a{
     text-decoration: none;
     color: black;
+    margin-left: 1rem;
 }
 .last-second-second a{
     text-decoration: none;
@@ -119,4 +140,21 @@ header {
 .last-first, .last-second {
     display: flex;
     align-items: center;
+}
+
+.last-second-first {
+    
+    display: flex;
+    gap: 3rem;
+}
+.last-second-second {
+    display: flex;
+    gap: 3rem;
+}
+
+.last-second-second a, .last-first a{
+    text-decoration: none;
+    color: black;
+    margin-right: 1.5rem;
+
 }
