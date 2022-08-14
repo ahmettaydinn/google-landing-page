@@ -1,7 +1,10 @@
 ## Project: Google Landing Page
-
-## Description
-Project aims to create google landing page.
+<hr>
+<b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/google-landing-page//">Live Website</a>
+<hr>
+<h3>Overview</h3>
+👨‍💻 In this project I mastered division and professional photo and video mixture.We used HTML and CSS. You can see visual representation of the website above. The objective is to build out this landing page and get it looking as close to the professional design as possible..
+<hr>
 
 ## Project Skeleton 
 
@@ -28,7 +31,7 @@ Project aims to create google landing page.
 
 ## Objective
 
-🎯 Challenge is to build out this landing page and get it looking as close to the professional design as possible..
+🎯
 
 ### The project covers;
 
@@ -47,19 +50,9 @@ Project aims to create google landing page.
 
 <center> ⌛ Happy Coding  ✍ </center>
 
-## Tea-Store Application Website
-<h3 align="center">Visualization of the Website</h3>
-<br>
-<p align="center">
-<img src="tea-cozy.gif" alt="my website" width="590" height="350">
-</p>
-<hr>
-<b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/tea-cozy-website/">Live Website</a>
-<hr>
-<h3>Overview</h3>
-In this project I mastered division and professional photo and video mixture.We used HTML and CSS. You can see visual representation of the website above. 
-<hr>
-<h3>Project Skeleton</h3>
+
+
+
   
 
 <hr>
