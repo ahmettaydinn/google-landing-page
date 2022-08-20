@@ -28,7 +28,7 @@ google-landing-page (directory)
 ## Expected Outcome
 
 <p align="center">
-<a href="https://bavi-boop.github.io/tea-cozy-website/"><img src="snapshot.pngf" alt="screenshot" ></a>
+<a href="https://bavi-boop.github.io/tea-cozy-website/"><img src="snapshot.png" alt="screenshot" ></a>
 </p>
 
 ## Objective
